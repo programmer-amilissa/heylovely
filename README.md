@@ -17,7 +17,20 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
 
+## Deploy
+git status
 
+git add .
+
+git
+
+yarn build
+
+vercel login
+
+vercel
+
+vercel --prod
 
 ## Run Locally
 
